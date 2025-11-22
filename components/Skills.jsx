@@ -62,7 +62,7 @@ const Skills = () => {
                                 <Image src={react} alt='' width="64" height="64" />
                             </div>
                             <div className="flex flex-col justify-center items-center">
-                                <h3 className="font-bold uppercase dark:text-[rgb(14,178,243)]">css</h3>
+                                <h3 className="font-bold uppercase dark:text-[rgb(14,178,243)]">react</h3>
                             </div>
                         </div>
                     </div>
@@ -84,7 +84,7 @@ const Skills = () => {
                                 <Image src={node} alt='' width="64" height="64" />
                             </div>
                             <div className="flex flex-col justify-center items-center">
-                                <h3 className="font-bold uppercase dark:text-[rgb(14,178,243)]">css</h3>
+                                <h3 className="font-bold uppercase dark:text-[rgb(14,178,243)]">node</h3>
                             </div>
                         </div>
                     </div>

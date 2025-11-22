@@ -13,7 +13,7 @@ const About = () => {
 
                         <p className='dark:text-white'>// A life long learner with a drive to solve problems with code</p>
                         <p className="py-2 dark:text-white text-gray-600">I specialize in building responsive fullstack web applications. I&apos;m passionate about learning new technologies and understand that there is more than one way to accomplish a task. My current focus is building applications that use React, Express, MySql and Node. I&apos;m a quick learner and can pick up new tech stacks as needed. I believe that being a great developer involves not sticking to one specific language but choosing the best tool for the job.</p>
-                        <p className="py-2 dark:text-white text-gray-600">I&apos;sve spent the last 4 years in Information Technology as an IT Support Specialist. My desire to becoming a well-rounded Technologist has lead me to obtaining my CompTIA A+, Security+, and Nework+.  When my computers turned off Im enjoying time with my family, the outdoors, or staying active.</p>
+                        <p className="py-2 dark:text-white text-gray-600">I&apos;ve spent the last 4 years in Information Technology as an IT Support Specialist. My desire in becoming a well-rounded Technologist has lead me to obtaining my CompTIA A+, Security+, and Nework+. In my free time I enjoy spending time with my family, going outdoors, or physically staying active.</p>
                         
                         <Link className="underline text-gray-600" href="/#projects">Check out some of my projects</Link>
                      </div>
