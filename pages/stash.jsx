@@ -37,7 +37,7 @@ const stash = () => {
                         the site&apos;s API has been deployed using the free tier option on Render.com, which shuts down the server due to inactivity.</h3>
 
                     <a
-                        href='https://github.com/ddelimond/Stash-v2'
+                        href=''
                         target='_blank'
                         rel='noreferrer'
                     >
