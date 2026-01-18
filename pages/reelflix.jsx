@@ -36,7 +36,7 @@ const reelfliX = () => {
                         the site has been deployed using the free tier option on Render.com, which shuts down the backend server due to inactivity.</h3>
 
                     <a
-                        href='https://github.com/ddelimond/ReelFlix'
+                        href=''
                         target='_blank'
                         rel='noreferrer'
                     >

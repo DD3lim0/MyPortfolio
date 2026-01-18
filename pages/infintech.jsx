@@ -35,7 +35,7 @@ const infintech = () => {
                     </p>
 
                     <a
-                        href='https://github.com/ddelimond/Infintech'
+                        href=''
                         target='_blank'
                         rel='noreferrer'
                     >
