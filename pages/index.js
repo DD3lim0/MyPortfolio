@@ -27,10 +27,11 @@ const index = () => {
         <meta name="msapplication-config" content="../public/assets/browserconfig.xml" />
         <meta name="theme-color" content="#ffffff" />
       </Head>
-      <Welcome/>
-      <About/>
+      
+       <Welcome/>
+      {/*<About/>
       <Skills/>
-      <Projects/>
+      <Projects/> */}
       {/* <Contact/> */}
       <Footer/>
     </div>
