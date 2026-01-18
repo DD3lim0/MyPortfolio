@@ -3,7 +3,8 @@
 // import { FaFileDownload, FaGithub, FaLinkedinIn, FaTwitter } from "react-icons/fa";
 // import { AiOutlineMail } from "react-icons/ai";
 // import { BsFillPersonLinesFill } from "react-icons/bs";
-import update from "../public/assets/Caution-Under-Maintenance.jpg"
+import update from "../public/assets/Caution-Under-Maintenance.jpg";
+
 
 const Welcome = () => {
   return (
@@ -21,7 +22,7 @@ const Welcome = () => {
     //     </article>
     //   </section>
     // </section>
-    <img src={update} alt="maintainence"/>
+    <img src={update} alt="update"/>
   )
 }
 
