@@ -42,4 +42,14 @@ scroll-behavior: smooth !important;
   button {
     @apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[rgb(14,178,243)] to-[rgb(14,178,243)] text-white
   }
+
+  .maintenance{
+    margin: 0 auto;
+  }
+}
+
+.max-w-\[1240px\].w-full.h-full.mx-auto.p-2.flex.justify-center.items-center {
+  position: relative;
+  top: 65px;
+  padding: 30px;
 }
